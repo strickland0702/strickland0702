@@ -3,8 +3,8 @@
 ### About Me
 
 - :grinning: My name is Rui Ding. 
-- :school: ​I'm currently a second-year graduate student majored in data science from School of Information, Univeristy of Michigan, Ann Arbor. 
-- :mortar_board: I graduated from Shanghai Jiao Tong University with a bachelor's degree, majored in Electrical and Computer Engineering (ECE).
+- :school: ​I'm currently a second-year graduate student majoring in data science from School of Information, Univeristy of Michigan, Ann Arbor. 
+- :mortar_board: I graduated from Shanghai Jiao Tong University with a B.S degree majoring in Electrical and Computer Engineering (ECE).
 - :derelict_house: I'm now living in Shanghai. I love this city.
 - :dart: I'm interested in data science, artificial intelligence, machine learning, deeping learning, reinforcement learning and any topic related to DS/ML/AI. 
 
@@ -12,7 +12,7 @@
 
 - [Using Deep Q-learning to solve Jelly No Puzzle](https://github.com/strickland0702/Jelly_no_puzzle)
 - [Paper Authors Network Analysis Using Graph Embeddings](https://github.com/strickland0702/Paper_authorship_network_analysis)
-- Text Difficulty Prediction of Wekipedia Corpus
+- [Text Difficulty Prediction of Wekipedia Corpus](https://github.com/strickland0702/Prediction_of_Text_Difficulty)
 - Customized Search Engine Based on Keywords Extraction of Amazon Customer Reviews
 - Prediction of Stock Price Movement Using Apple's Financial News
 - Training word2vec Embedding Using Skip-Gram Model
