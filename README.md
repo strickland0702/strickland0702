@@ -13,7 +13,7 @@
 - [Using Deep Q-learning to solve Jelly No Puzzle](https://github.com/strickland0702/Jelly_no_puzzle)
 - [Paper Authors Network Analysis Using Graph Embeddings](https://github.com/strickland0702/Paper_authorship_network_analysis)
 - [Text Difficulty Prediction of Wekipedia Corpus](https://github.com/strickland0702/Prediction_of_Text_Difficulty)
-- Customized Search Engine Based on Keywords Extraction of Amazon Customer Reviews
+- [Customized Search Engine Based on Keywords Extraction of Amazon Customer Reviews](https://github.com/strickland0702/SI650_project)
 - Prediction of Stock Price Movement Using Apple's Financial News
 - Training word2vec Embedding Using Skip-Gram Model
 - Lyrics Genertation Using GAN
