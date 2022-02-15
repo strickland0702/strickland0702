@@ -21,7 +21,7 @@
 
 ### Competitions
 
-- Midea Refrigerator School-Enterprise Joint Competition, Champion:1st_place_medal:
+- 2020 Midea Refrigerator School-Enterprise Joint Competition, Champion:1st_place_medal:
 - 2021 Microsoft Student Hackthon AI/ML Education Challenge, Challenge Winner
 
 ### Hobbies
