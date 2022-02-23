@@ -11,12 +11,12 @@
 ### Projects
 
 - [Using Deep Q-learning to solve Jelly No Puzzle](https://github.com/strickland0702/Jelly_no_puzzle)
-- [Paper Authors Network Analysis Using Graph Embeddings](https://github.com/strickland0702/Paper_authorship_network_analysis)
 - [Text Difficulty Prediction of Wikipedia Corpus](https://github.com/strickland0702/Prediction_of_Text_Difficulty)
 - [Customized Search Engine Based on Keywords Extraction of Amazon Customer Reviews](https://github.com/strickland0702/SI650_project)
 - [Transition-based Dependency Parser Using Neural Networks](https://github.com/strickland0702/dependency-parser)
 - Training word2vec Embedding Using Skip-Gram Model
 - [Lyrics Genertation and Classification Using Pre-trained Transformers](https://github.com/strickland0702/lyrics-generation)
+- [Paper Authors Network Analysis Using Graph Embeddings](https://github.com/strickland0702/Paper_authorship_network_analysis)
 - [AlphaGo: New Era](https://strickland0702.github.io/web-design-project-alphago/)
 
 ### Competitions
