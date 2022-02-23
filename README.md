@@ -16,7 +16,7 @@
 - [Customized Search Engine Based on Keywords Extraction of Amazon Customer Reviews](https://github.com/strickland0702/SI650_project)
 - [Transition-based Dependency Parser Using Neural Networks](https://github.com/strickland0702/dependency-parser)
 - Training word2vec Embedding Using Skip-Gram Model
-- Lyrics Genertation Using GAN
+- [Lyrics Genertation and Classification Using Pre-trained Transformers](https://github.com/strickland0702/lyrics-generation)
 - [AlphaGo: New Era](https://strickland0702.github.io/web-design-project-alphago/)
 
 ### Competitions
