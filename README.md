@@ -14,7 +14,7 @@
 - [Paper Authors Network Analysis Using Graph Embeddings](https://github.com/strickland0702/Paper_authorship_network_analysis)
 - [Text Difficulty Prediction of Wikipedia Corpus](https://github.com/strickland0702/Prediction_of_Text_Difficulty)
 - [Customized Search Engine Based on Keywords Extraction of Amazon Customer Reviews](https://github.com/strickland0702/SI650_project)
-- Prediction of Stock Price Movement Using Apple's Financial News
+- [Transition-based Dependency Parser Using Neural Networks](https://github.com/strickland0702/dependency-parser)
 - Training word2vec Embedding Using Skip-Gram Model
 - Lyrics Genertation Using GAN
 - [AlphaGo: New Era](https://strickland0702.github.io/web-design-project-alphago/)
