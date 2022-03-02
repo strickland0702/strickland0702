@@ -29,7 +29,7 @@
 - Chinese Hip-Hop Music :microphone:
 - The Game of Go :thinking:
 - Art Exhibition :art:
-- Card Games :hearts::clubs::diamonds::spades:
+- Texas hold'em :hearts::clubs::diamonds::spades:
 - Video Games :video_game:
 - Billiards :8ball:
 
