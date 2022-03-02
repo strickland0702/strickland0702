@@ -6,7 +6,7 @@
 - :school: ​I'm currently a second-year graduate student majoring in data science from School of Information, Univeristy of Michigan, Ann Arbor. 
 - :mortar_board: I graduated from Shanghai Jiao Tong University with a B.S degree majoring in Electrical and Computer Engineering (ECE).
 - :derelict_house: I'm now living in Shanghai.
-- :dart: I'm interested in data science, artificial intelligence, machine learning, deeping learning, reinforcement learning and any topic related to DS/ML/AI. 
+- :dart: I'm interested in machine learning, deeping learning, NLP, recommendation system, reinforcement learning and any topic related to DS/ML/AI. 
 
 ### Projects
 
