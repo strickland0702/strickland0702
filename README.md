@@ -9,8 +9,11 @@
 - :dart: I'm interested in machine learning, deeping learning, NLP, recommendation system, reinforcement learning and any topic related to DS/ML/AI. 
 
 ### Projects
-
-- [Using Deep Q-learning to solve Jelly No Puzzle](https://github.com/strickland0702/Jelly_no_puzzle)
+- Computer Vision
+  - [Faster-RCNN and FCOS Object Detection](https://github.com/strickland0702/EECS598-008-DLCV/tree/main/A4)
+  - [Image Captioning Using Attention-based LSTM and Transformer](https://github.com/strickland0702/EECS598-008-DLCV/tree/main/A5)
+- Reinforcement Learning
+  - [Using Deep Q-learning to solve Jelly No Puzzle](https://github.com/strickland0702/Jelly_no_puzzle)
 - [Customized Search Engine Based on Keywords Extraction of Amazon Customer Reviews](https://github.com/strickland0702/SI650_project)
 - [Training word2vec Embedding Using Skip-Gram Model](https://github.com/strickland0702/word2vec)
 - [GloVe: Global Vectors for Word Representation](https://github.com/strickland0702/glove)
