@@ -25,7 +25,7 @@
   
 - Information Retrival
   - [Customized Search Engine Based on Keywords Extraction of Amazon Customer Reviews](https://github.com/strickland0702/SI650_project)
-  - 
+  
 - Machine Learning & Data Mining
   - [Text Difficulty Prediction of Wikipedia Corpus](https://github.com/strickland0702/Prediction_of_Text_Difficulty)
   - [Paper Authors Network Analysis Using Graph Embeddings](https://github.com/strickland0702/Paper_authorship_network_analysis)
@@ -37,6 +37,7 @@
 
 - 2020 Midea Refrigerator School-Enterprise Joint Competition, Champion:1st_place_medal:
 - 2021 Microsoft Student Hackthon AI/ML Education Challenge, Challenge Winner
+- 2022 Kaggle Ubiquant Market Prediction Competition
 
 ### Hobbies
 
