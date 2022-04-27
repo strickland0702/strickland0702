@@ -1,5 +1,3 @@
-***Hi, there!*** :wave::wave::wave:
-
 ### About Me
 
 - :grinning: My name is Rui Ding. 
