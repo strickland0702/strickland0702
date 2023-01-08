@@ -28,6 +28,9 @@
   - [Text Difficulty Prediction of Wikipedia Corpus](https://github.com/strickland0702/Prediction_of_Text_Difficulty)
   - [Paper Authors Network Analysis Using Graph Embeddings](https://github.com/strickland0702/Paper_authorship_network_analysis)
 
+- GPU-Parallel-Programming
+  - [Accelerating CNN using Parallel Convolution Kernel](https://github.com/strickland0702/EECS471-GPU-Parallel-Computing/tree/main/final_project)
+  
 - Web-Design
   - [AlphaGo: New Era](https://strickland0702.github.io/web-design-project-alphago/)
 
